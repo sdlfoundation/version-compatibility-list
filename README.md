@@ -12,11 +12,11 @@ This repository contains a list of the compatible `Version` integer values in Sp
 | v112 | v2.2.0 | 0 | False |
 | v128 | v2.3.0 | 0 & 1 | False |
 | v144 | v2.4.0 | 0, 1 & 2 | False |
-| v160 | v2.5.0 | 0 | False |
-| v176 | v2.6.0 | 0 | False |
-| v192 | v2.7.0 | 0 | False |
-| v208 | v2.8.0 | 0 | False |
-| v224 | v2.9.0 | 0 | False |
-| v240 | v2.10.0 | 0 | False |
-| v256 | v2.11.0 | 0 | False |
-| v272 (Latest) | v2.12.0 | 0, 3 | False |
+| v160 | v2.5.0 | 0, 1 & 2 | False |
+| v176 | v2.6.0 | 0, 1 & 2 | False |
+| v192 | v2.7.0 | 0, 1 & 2 | False |
+| v208 | v2.8.0 | 0, 1, 2 & 3 | False |
+| v224 | v2.9.0 | 0, 1, 2 & 3 | False |
+| v240 | v2.10.0 | 0, 1, 2 & 3 | False |
+| v256 | v2.11.0 | 0, 1, 2 & 3 | False |
+| v272 (Latest) | v2.12.0 | 0, 1, 2 & 3 | False |
