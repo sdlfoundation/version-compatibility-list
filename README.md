@@ -10,7 +10,7 @@ This repository contains a list of the compatible `Version` integer values in Sp
 | v80 | v2.0.0 | 0 | False |
 | v96 | v2.1.0 | 0 | False |
 | v112 | v2.2.0 | 0 | False |
-| v128 | v2.3.0 | 1 | False |
+| v128 | v2.3.0 | 0, 1 | False |
 | v144 | v2.4.0 | Unknown | False |
 | v160 | v2.5.0 | 0 | False |
 | v176 | v2.6.0 | Unknown | False |
