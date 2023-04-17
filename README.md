@@ -2,4 +2,4 @@ This repository contains a list of the compatible `Version` attributes in Splato
 
 | Version      | Compatible integers |
 | ------------ | ------------------- |
-| v272         | 3 |
+| v272 | 3 |
