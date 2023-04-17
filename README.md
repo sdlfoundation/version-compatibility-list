@@ -19,4 +19,4 @@ This repository contains a list of the compatible `Version` integer values in Sp
 | v224 | v2.9.0 | Unknown | False |
 | v240 | v2.10.0 | Unknown | False |
 | v256 | v2.11.0 | Unknown | False |
-| v272 | v2.12.0 | 3 | False |
+| v272 (Latest) | v2.12.0 | 3 | False |
