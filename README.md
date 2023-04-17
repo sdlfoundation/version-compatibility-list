@@ -1,4 +1,4 @@
-This repository contains a list of the compatible `Version` integer values in Splatoon's BOSS for all versions that allow you to bypass the version checks, as well as instructions on how to use this information to play the game with older versions.
+This repository contains a list of the compatible `Version` integer values in Splatoon's BOSS (schdat2) for all versions that allow you to bypass the version checks, as well as instructions on how to use this information to play the game with older versions.
 
 # The list
 
