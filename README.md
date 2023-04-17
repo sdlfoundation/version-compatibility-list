@@ -1,4 +1,4 @@
-This repository contains a list of the compatible `Version` attributes in Splatoon's BOSS that allow you to go online without the latest version (v272).
+This repository contains a list of the compatible `Version` integer values in Splatoon's BOSS for all versions that allow you to bypass the version checks.
 
 | Version      | Compatible integers |
 | ------------ | ------------------- |
