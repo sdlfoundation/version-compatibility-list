@@ -4,7 +4,7 @@ This repository contains a list of the compatible `Version` integer values in Sp
 
 | Version | Version codename | Compatible integers |
 | - | - | - |
-| v16 | v1.0.0 Unknown |
+| v16 | v1.0.0 | Unknown |
 | v48 | v1.2.0 | Unknown |
 | v64 | v1.3.0 | Unknown |
 | v80 | v2.0.0 | Unknown |
