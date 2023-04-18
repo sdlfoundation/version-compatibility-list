@@ -2,7 +2,7 @@ This repository contains a list of the compatible `Version` integer values in Sp
 
 # The list
 
-| Version | Version codename | Compatible integers | Uses schdata/optdata instead of schdat2/optdat2 | Go online using Pretendo
+| Version | Version codename | Compatible integers | Uses schdata/optdata instead of schdat2/optdat2 | Go online using Pretendo?
 | - | - | - | - | - |
 | v16 | v1.0.0 | 0 | True | False |
 | v48 | v1.2.0 | 0 | True | False |
