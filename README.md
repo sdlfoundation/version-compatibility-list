@@ -2,7 +2,7 @@ This repository contains a list of the compatible `Version` integer values in Sp
 
 # The list
 
-| Version | Version codename | Compatible integers | Uses schdata/optdata instead of schdat2/optdat2 | Go online using Pretendo?
+| Version | Version codename | Compatible integers | Uses schdata/optdata instead of schdat2/optdat2 | Can go online with Pretendo |
 | - | - | - | - | - |
 | v16 | v1.0.0 | 0 | True | False |
 | v48 | v1.2.0 | 0 | True | False |
@@ -21,10 +21,8 @@ This repository contains a list of the compatible `Version` integer values in Sp
 | v256 | v2.11.0 | 0, 1, 2 & 3 | False | True |
 | v272 (Latest) | v2.12.0 | 0, 1, 2 & 3 | False | True |
 
-# BOSS Location (EUR, USA & JPN) : 
+# BOSS Locations (EUR, USA & JPN): 
 
-EUR : mlc01\usr\boss\00050000\10176A00\user\common\data\
-
-USA : mlc01\usr\boss\00050000\10176900\user\common\data\
-
-JPN : mlc01\usr\boss\00050000\10162B00\user\common\data\
+- EUR: `mlc01/usr/boss/00050000/10176A00/user/common/data`
+- USA: `mlc01/usr/boss/00050000/10176900/user/common\data`
+- JPN: `mlc01/usr/boss/00050000/10162B00/user/common\data`
