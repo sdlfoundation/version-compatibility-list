@@ -2,24 +2,24 @@ This repository contains a list of the compatible `Version` integer values in Sp
 
 # The list
 
-| Version | Version codename | Compatible integers | Uses schdata/optdata instead of schdat2/optdat2
-| - | - | - | - |
-| v16 | v1.0.0 | 0 | True |
-| v48 | v1.2.0 | 0 | True |
-| v64 | v1.3.0 | 0 | True |
-| v80 | v2.0.0 | 0 | False |
-| v96 | v2.1.0 | 0 | False |
-| v112 | v2.2.0 | 0 | False |
-| v128 | v2.3.0 | 0 & 1 | False |
-| v144 | v2.4.0 | 0, 1 & 2 | False |
-| v160 | v2.5.0 | 0, 1 & 2 | False |
-| v176 | v2.6.0 | 0, 1 & 2 | False |
-| v192 | v2.7.0 | 0, 1 & 2 | False |
-| v208 | v2.8.0 | 0, 1, 2 & 3 | False |
-| v224 | v2.9.0 | 0, 1, 2 & 3 | False |
-| v240 | v2.10.0 | 0, 1, 2 & 3 | False |
-| v256 | v2.11.0 | 0, 1, 2 & 3 | False |
-| v272 (Latest) | v2.12.0 | 0, 1, 2 & 3 | False |
+| Version | Version codename | Compatible integers | Uses schdata/optdata instead of schdat2/optdat2 | Go online using Pretendo
+| - | - | - | - | - |
+| v16 | v1.0.0 | 0 | True | False |
+| v48 | v1.2.0 | 0 | True | False |
+| v64 | v1.3.0 | 0 | True | False |
+| v80 | v2.0.0 | 0 | False | True |
+| v96 | v2.1.0 | 0 | False | True |
+| v112 | v2.2.0 | 0 | False | True |
+| v128 | v2.3.0 | 0 & 1 | False | True |
+| v144 | v2.4.0 | 0, 1 & 2 | False | True |
+| v160 | v2.5.0 | 0, 1 & 2 | False | True |
+| v176 | v2.6.0 | 0, 1 & 2 | False | True |
+| v192 | v2.7.0 | 0, 1 & 2 | False | True |
+| v208 | v2.8.0 | 0, 1, 2 & 3 | False | True |
+| v224 | v2.9.0 | 0, 1, 2 & 3 | False | True |
+| v240 | v2.10.0 | 0, 1, 2 & 3 | False | True |
+| v256 | v2.11.0 | 0, 1, 2 & 3 | False | True |
+| v272 (Latest) | v2.12.0 | 0, 1, 2 & 3 | False | True |
 
 # BOSS Location (EUR, USA & JPN) : 
 
