@@ -20,3 +20,11 @@ This repository contains a list of the compatible `Version` integer values in Sp
 | v240 | v2.10.0 | 0, 1, 2 & 3 | False |
 | v256 | v2.11.0 | 0, 1, 2 & 3 | False |
 | v272 (Latest) | v2.12.0 | 0, 1, 2 & 3 | False |
+
+# BOSS Location (EUR, USA & JPN) : 
+
+EUR : mlc01\usr\boss\00050000\10176A00\user\common\data
+
+USA : mlc01\usr\boss\00050000\10176900\user\common\data
+
+JPN :mlc01\usr\boss\00050000\10162B00\user\common\data
