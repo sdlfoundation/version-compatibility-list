@@ -27,4 +27,4 @@ EUR : mlc01\usr\boss\00050000\10176A00\user\common\data
 
 USA : mlc01\usr\boss\00050000\10176900\user\common\data
 
-JPN :mlc01\usr\boss\00050000\10162B00\user\common\data
+JPN : mlc01\usr\boss\00050000\10162B00\user\common\data
