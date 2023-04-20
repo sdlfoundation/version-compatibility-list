@@ -1,3 +1,7 @@
+> ⚠️ It is not recommended that you use old versions on Nintendo Network.
+
+> ⚠️ Connecting to clients with a different version may cause crashes.
+
 This repository contains a list of the compatible `Version` integer values in Splatoon's BOSS (schdat2) for all versions that allow you to bypass the version checks, as well as instructions on how to use this information to play the game with older versions.
 
 If you want an all-version compatible schdat2 BYAML file, you can download from [here](https://github.com/Splatoon-1-Database/version-compatibility-list/blob/main/000005f7).
