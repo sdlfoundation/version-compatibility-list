@@ -25,8 +25,8 @@ If you want an all-version compatible schdat2 BYAML file, you can download from 
 | v224 | v2.9.0 | 0, 1, 2 & 3 | False | True |
 | v240 | v2.10.0 | 0, 1, 2 & 3 | False | True |
 | v256 | v2.11.0 | 0, 1, 2 & 3 | False | True |
-| v272 (Latest) | v2.12.0 | 0, 1, 2 & 3 | False | True |
-
+| v272 | v2.12.0 | 0, 1, 2 & 3 | False | True |
+| v288 (Latest) | v2.12.1 | 0, 1, 2 & 3 | False | True |
 # BOSS Locations (EUR, USA & JPN)
 
 - EUR: `mlc01/usr/boss/00050000/10176A00/user/common/data`
