@@ -1,6 +1,6 @@
-> ⚠️ It is not recommended that you use old versions on Nintendo Network.
+> ⚠️ It is not recommended that you use old versions on Pretendo Network. ⚠️
 
-> ⚠️ Connecting to clients with a different version may cause crashes.
+> ⚠️ Connecting to clients with a different version may cause crashes & desyncs. ⚠️
 
 This repository contains a list of the compatible `Version` integer values in Splatoon's BOSS (schdat2) for all versions that allow you to bypass the version checks, as well as instructions on how to use this information to play the game with older versions.
 
