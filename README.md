@@ -11,6 +11,7 @@ If you want an all-version compatible schdat2 BYAML file, you can download from 
 | Version | Version codename | Compatible integers | Uses schdata/optdata instead of schdat2/optdat2 | Can go online with Pretendo |
 | - | - | - | - | - |
 | v16 | v1.0.0 | 0 | True | False |
+| v32 (Unreleased) | v1.1.0 | 0 | True | False |
 | v48 | v1.2.0 | 0 | True | False |
 | v64 | v1.3.0 | 0 | True | False |
 | v80 | v2.0.0 | 0 | False | True |
